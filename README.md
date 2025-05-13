@@ -1,5 +1,3 @@
-﻿# project_3_opc
-
 ## Projet – Conception fonctionnelle du site HomeSkolar
 
 ### Contexte
